@@ -1,0 +1,5 @@
+/* For some reason if I remove margin 0 from body it overflows */
+body {
+  margin: 0;
+  padding: 0;
+}
