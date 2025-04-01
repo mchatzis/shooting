@@ -7,4 +7,4 @@
 This is a snapshot of my code from day-4 of the competition for display purposes. The up-to-date code lives in private repositories.
 
 ### Current released deployment
-[Click here](https://aram.maicl.uk/)
+[Click here](https://shoot.maicl.uk/)
